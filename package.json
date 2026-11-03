@@ -1,0 +1,9 @@
+{
+  "name": "toos-real-estate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TOOS REAL ESTATE customer registration and real-estate inquiry website",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "bcryptjs": "^2.4.3", "nodemailer": "^6.10.0", "dotenv": "^16.4.7"},
+  "engines": {"node": ">=18"}
+}
